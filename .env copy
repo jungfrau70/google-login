@@ -1,0 +1,4 @@
+export GOOGLE_CLIENT_ID="86146086142-voi3mva70uptgv9selvrn5tatr28iooa.apps.googleusercontent.com"
+export GOOGLE_CLIENT_SECRET="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"
+export SECRET_KEY="qblU3bGgvGUF0MpelPLTuN8WeWlOGxxU8Mm5BSrm"
+export API_SECRET_KEY="qblU3bGgvGUF0MpelPLTuN8WeWlOGxxU8Mm5BSrm"
